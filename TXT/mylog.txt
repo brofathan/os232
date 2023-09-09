@@ -6,3 +6,6 @@ ZCZC  W00  20  L31  Virtualbox
 ZCZC  W00  10  L03  Github related
 ZCZC  W00  30  L10  Assignment #00 reading assignment
 ZCZC  W00   5  L41  TXT/mylog.txt related
+ZCZC  W01  20  L11  Assignment #01 reading assignment
+ZCZC  W01  60  L05  Quiz related and studying
+ZCZC  W01   5  L41  TXT/mylog.txt related
