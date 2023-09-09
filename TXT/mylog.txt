@@ -9,3 +9,4 @@ ZCZC  W00   5  L41  TXT/mylog.txt related
 ZCZC  W01  20  L11  Assignment #01 reading assignment
 ZCZC  W01  60  L05  Quiz related and studying
 ZCZC  W01   5  L41  TXT/mylog.txt related
+ZCZC  W01  99  L11  Assignment #01 setting up virtual box and debian
