@@ -10,3 +10,8 @@ ZCZC  W01  20  L11  Assignment #01 reading assignment
 ZCZC  W01  60  L05  Quiz related and studying
 ZCZC  W01   5  L41  TXT/mylog.txt related
 ZCZC  W01  99  L11  Assignment #01 setting up virtual box and debian
+ZCZC  W01  60  L11  Assignment #01 reading assignment
+ZCZC  W01  30  L22  Studying linux and vi command
+ZCZC  W01  30  L04  Setting up github and github pages
+ZCZC  W01  45  L84  Relax and nap
+ZCZC  W01   5  L41  TXT/mylog.txt related
