@@ -5,6 +5,6 @@ permalink: LINKS/
 # LINKS
 
 * [Vim Cheat Sheet](https://vim.rtorr.com/) --- 
-Vim Cheat Sheet.
+All useful commands in Vim.
 <br>
 <hr>
