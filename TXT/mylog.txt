@@ -15,3 +15,8 @@ ZCZC  W01  30  L22  Studying linux and vi command
 ZCZC  W01  30  L04  Setting up github and github pages
 ZCZC  W01  45  L84  Relax and nap
 ZCZC  W01   5  L41  TXT/mylog.txt related
+ZCZC  W02  15  L01  SCELE and discord related
+ZCZC  W02  99  L02  Classroom meetings related
+ZCZC  W02  40  L09  Assigments week 02, Assignments #1 Reading assignments
+ZCZC  W02  90  L09  Assigments in general, virtualbox and shell related
+ZCZC  W02   5  L41  TXT/mylog.txt related
