@@ -20,3 +20,7 @@ ZCZC  W02  99  L02  Classroom meetings related
 ZCZC  W02  40  L09  Assigments week 02, Assignments #1 Reading assignments
 ZCZC  W02  90  L09  Assigments in general, virtualbox and shell related
 ZCZC  W02   5  L41  TXT/mylog.txt related
+ZCZC  W02  15  L32  Watching youtube os related, linux command tutorial
+ZCZC  W02  20  L09  Assigments week02 in general
+ZCZC  W02  20  L01  SCELE pop quiz related
+ZCZC  W02   3  L41  TXT/mylog.txt related
