@@ -10,6 +10,6 @@ All useful commands in Vim.
 Vim tutorial for new
 * [Codeforces](https://codeforces.com/) --- A website for competitive programming challange
 * [GeeksforGeeks](https://www.geeksforgeeks.org/) --- Website that useful for computer science students. Contains many IT guides
-* [GitHub Docs](https://docs.github.com/en) --- GitHub documentations
+* [GitHub Docs](https://docs.github.com/en) --- GitHub documentation
 <br>
 <hr>
