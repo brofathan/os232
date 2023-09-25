@@ -11,5 +11,7 @@ Vim tutorial for new
 * [Codeforces](https://codeforces.com/) --- A website for competitive programming challange
 * [GeeksforGeeks](https://www.geeksforgeeks.org/) --- Website that useful for computer science students. Contains many IT guides
 * [GitHub Docs](https://docs.github.com/en) --- GitHub documentation
+* [Vim Tips and Tricks](https://youtu.be/13gNtgqzzmM?si=Xzm2Kw_OknZNfmgo) --- Some useful uncommon vim tips and tricks
+* [LeetCode](https://leetcode.com/) --- Website for learn programming also include bunch of programming logic challenge
 <br>
 <hr>
