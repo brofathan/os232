@@ -24,3 +24,11 @@ ZCZC  W02  15  L32  Watching youtube os related, linux command tutorial
 ZCZC  W02  20  L09  Assigments week02 in general
 ZCZC  W02  20  L01  SCELE pop quiz related
 ZCZC  W02   3  L41  TXT/mylog.txt related
+ZCZC  W03  10  L01  SCELE related
+ZCZC  W03  90  L02  Classroom meetings related
+ZCZC  W03  35  L09  Assignments in general, reading assignments
+ZCZC  W03  60  L05  Quiz and study for quiz related
+ZCZC  W03   5  L41  TXT/mylog.txt related
+ZCZC  W03  30  L01  SCELE related, OS PopQuiz
+ZCZC  W03  95  L09  Assignments in general, including Vi, Virtualbox, Debian
+ZCZC  W03   5  L41  TXT/mylog.txt related
