@@ -32,3 +32,9 @@ ZCZC  W03   5  L41  TXT/mylog.txt related
 ZCZC  W03  30  L01  SCELE related, OS PopQuiz
 ZCZC  W03  95  L09  Assignments in general, including Vi, Virtualbox, Debian
 ZCZC  W03   5  L41  TXT/mylog.txt related
+ZCZC  W04  50  L09  Assignment in General, reading assignment
+ZCZC  W04  60  L01  SCELE/Discord related, operating system pop quiz
+ZCZC  W04  90  L98  Programming Assignment
+ZCZC  W04  99  L02  CLASSROOM/ZOOM meetings related
+ZCZC  W04  45  L09  Assignment in general, week04 assigment
+ZCZC  W04   5  L41  TXT/mylog.txt related
