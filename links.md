@@ -13,5 +13,7 @@ Vim tutorial for new
 * [GitHub Docs](https://docs.github.com/en) --- GitHub documentation
 * [Vim Tips and Tricks](https://youtu.be/13gNtgqzzmM?si=Xzm2Kw_OknZNfmgo) --- Some useful uncommon vim tips and tricks
 * [LeetCode](https://leetcode.com/) --- Website for learn programming also include bunch of programming logic challenge
+* [Neso Academy](https://www.nesoacademy.org/) -- Website for learn many computer science course including operating system
+* [LinuxTecho](https://www.linuxtechi.com/) -- Blogs for linux
 <br>
 <hr>
