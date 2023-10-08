@@ -15,5 +15,7 @@ Vim tutorial for new
 * [LeetCode](https://leetcode.com/) --- Website for learn programming also include bunch of programming logic challenge
 * [Neso Academy](https://www.nesoacademy.org/) -- Website for learn many computer science course including operating system
 * [LinuxTecho](https://www.linuxtechi.com/) -- Blogs for linux
+* [KhanAcademy](https://www.khanacademy.org/) -- Learn anything
+* [Kernel](https://www.kernel.org/)
 <br>
 <hr>
