@@ -38,3 +38,11 @@ ZCZC  W04  90  L98  Programming Assignment
 ZCZC  W04  99  L02  CLASSROOM/ZOOM meetings related
 ZCZC  W04  45  L09  Assignment in general, week04 assigment
 ZCZC  W04   5  L41  TXT/mylog.txt related
+ZCZC  W05  50  L09  Assignments in general, os reading and demo assigment
+ZCZC  W05  20  L09  Trying previous midterm problems
+ZCZC  W05  30  L00  General
+ZCZC  W05  95  L02  CLASSROOM/ZOOM meetings related
+ZCZC  W05  40  L01  SCELE/Discord related
+ZCZC  W05  20  L03  GitHub related
+ZCZC  W05  10  L41  TXT/mylog.txt related
+ZCZC  W05  90  L09  OS assigments in general such as scele pop quiz and weekly assignment
