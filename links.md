@@ -17,5 +17,6 @@ Vim tutorial for new
 * [LinuxTecho](https://www.linuxtechi.com/) -- Blogs for linux
 * [KhanAcademy](https://www.khanacademy.org/) -- Learn anything
 * [Kernel](https://www.kernel.org/)
+* [JavatPoint | Linux commands](https://www.javatpoint.com/linux-commands) -- List of usefull linux commands (powershell)
 <br>
 <hr>
