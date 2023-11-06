@@ -53,3 +53,4 @@ ZCZC  W06  25  L09  Reading assigments
 ZCZC  W06  50  L09  Week 6 assignments
 ZCZC  W06   5  L41  TXT/mylog.txt related
 ZCZC  W06  60  L01  SCELE related, study for popquiz
+ZCZC  W06  50  L09  OS Weekly Assignment
