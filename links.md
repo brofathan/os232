@@ -18,5 +18,8 @@ Vim tutorial for new
 * [KhanAcademy](https://www.khanacademy.org/) -- Learn anything
 * [Kernel](https://www.kernel.org/)
 * [JavatPoint | Linux commands](https://www.javatpoint.com/linux-commands) -- List of useful linux commands (powershell)
+* [Bash Scripting](https://youtu.be/tK9Oc6AEnR4?si=E5-ED3lfa53JWUOW) -- Bash scripting for beginners
+* [Regex](https://coderpad.io/blog/development/the-complete-guide-to-regular-expressions-regex/) -- Regex complete guide
+* [Linux data structure](https://www.geeksforgeeks.org/linux-directory-structure/) -- Linux data structure
 <br>
 <hr>
