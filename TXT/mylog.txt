@@ -46,3 +46,10 @@ ZCZC  W05  40  L01  SCELE/Discord related
 ZCZC  W05  20  L03  GitHub related
 ZCZC  W05  10  L41  TXT/mylog.txt related
 ZCZC  W05  90  L09  OS assigments in general such as scele pop quiz and weekly assignment
+ZCZC  W06  30  L00  General
+ZCZC  W06  99  L02  classroom meetings related
+ZCZC  W06  21  L02  classroom meetings related
+ZCZC  W06  25  L09  Reading assigments
+ZCZC  W06  50  L09  Week 6 assignments
+ZCZC  W06   5  L41  TXT/mylog.txt related
+ZCZC  W06  60  L01  SCELE related, study for popquiz
