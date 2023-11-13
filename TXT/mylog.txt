@@ -58,7 +58,6 @@ ZCZC  W07  20  L00  General
 ZCZC  W07  30  L03  Github related, working on github
 ZCZC  W07  15  L01  SCELE/Discord related
 ZCZC  W07  90  L02  Classroom meetings related
-ZCZC  W07  30  L02  Classroom meetings related
 ZCZC  W07  50  L09  OS assigment, reading assigment
 ZCZC  W07  60  L98  Working on another course assigment, programming related
 ZCZC  W07  30  L05  Quiz and study for quiz related
