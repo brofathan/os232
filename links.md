@@ -21,5 +21,8 @@ Vim tutorial for new
 * [Bash Scripting](https://youtu.be/tK9Oc6AEnR4?si=E5-ED3lfa53JWUOW) -- Bash scripting for beginners
 * [Regex](https://coderpad.io/blog/development/the-complete-guide-to-regular-expressions-regex/) -- Regex complete guide
 * [Linux data structure](https://www.geeksforgeeks.org/linux-directory-structure/) -- Linux data structure
+* [What is Virtual Memory?](https://www.youtube.com/watch?v=2quKyPnUShQ) -- This video explains about virtual memory, about why is it useful for operating system, and more
+* [Thread in Operating System](https://www.javatpoint.com/threads-in-operating-system) -- Article that explains deeper about thread particularly in operating system
+* [Fork function in C](https://www.geeksforgeeks.org/fork-system-call/)
 <br>
 <hr>
