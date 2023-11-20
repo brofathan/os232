@@ -24,5 +24,7 @@ Vim tutorial for new
 * [What is Virtual Memory?](https://www.youtube.com/watch?v=2quKyPnUShQ) -- This video explains about virtual memory, about why is it useful for operating system, and more
 * [Thread in Operating System](https://www.javatpoint.com/threads-in-operating-system) -- Article that explains deeper about thread particularly in operating system
 * [Fork function in C](https://www.geeksforgeeks.org/fork-system-call/)
+* [Linux From Scratch](https://www.linuxfromscratch.org/) -- Documentation of Linux From Scratch
+* [GCC Linux](https://www.geeksforgeeks.org/gcc-command-in-linux-with-examples/) -- Provides GCC command examples in Linux
 <br>
 <hr>
