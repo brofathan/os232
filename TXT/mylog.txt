@@ -63,3 +63,10 @@ ZCZC  W07  60  L98  Working on another course assigment, programming related
 ZCZC  W07  30  L05  Quiz and study for quiz related
 ZCZC  W07  50  L09  OS assigment related, including pop quiz and week 07 assignment
 ZCZC  W07   5  L41  TXT/mylog.txt related
+ZCZC  W08  50  L01  SCELE related, study for OS weekly quiz and the quiz included
+ZCZC  W08  99  L02  Classroom meetings related
+ZCZC  W08  15  L00  General
+ZCZC  W08  99  L09  Week 08 assignments including Linux From Scratch
+ZCZC  W08  45  L01  Popquiz related on SCELE
+ZCZC  W08  20  L03  Github related
+ZCZC  W08   5  L41  TXT/mylog.txt related
